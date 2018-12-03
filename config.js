@@ -7,7 +7,7 @@ define( function ( require ) {
 		wp_ws_url : 'http://store.entornodemo.com/wp-appkit-api/android',
 		wp_url : 'http://store.entornodemo.com',
 		theme : 'q-android',
-		version : '1.0.0',
+		version : '3.5.0',
 		app_type : 'phonegap-build',
 		app_title : 'STORE',
 		app_platform : 'android',

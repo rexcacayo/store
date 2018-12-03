@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <widget xmlns       = "http://www.w3.org/ns/widgets"
         xmlns:gap   = "http://phonegap.com/ns/1.0"
-        id          = "store.2018"
-        versionCode = ""
+        id          = "com.hiades.store"
+        versionCode = "1"
         version     = "3.5.0" >
 
 	<name>Store</name>
@@ -15,10 +15,8 @@
 	
 	<!-- General preferences -->
 	<preference name="android-targetSdkVersion" value="26" />
-	<preference name="buildArchitecture" value="x86" />
+	<preference name="buildArchitecture" value="arm" />
 	<preference name="android-build-tool" value="gradle" />
-
-	<preference name="phonegap-version" value="1.0" />
 	<preference name="permissions" value="none"/>
 
 	<preference name="disallowOverscroll" value="true" />

@@ -6,7 +6,7 @@ define( function ( require ) {
 		app_slug : 'android',
 		wp_ws_url : 'http://store.entornodemo.com/wp-appkit-api/android',
 		wp_url : 'http://store.entornodemo.com',
-		theme : 'q-android',
+		theme : 'themeforest-9318575-tour-travel-agency-altair-theme',
 		version : '3.5.0',
 		app_type : 'phonegap-build',
 		app_title : 'STORE',
